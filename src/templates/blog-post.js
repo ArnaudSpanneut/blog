@@ -7,11 +7,11 @@ import SEO from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+  const { title, social } = data.site.siteMetadata
   const { previous, next } = data
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={title} social={social}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
@@ -33,6 +33,7 @@ const BlogPostTemplate = ({ data, location }) => {
         <footer>
           <Bio />
         </footer>
+        <hr />
       </article>
       <nav className="blog-post-nav">
         <ul

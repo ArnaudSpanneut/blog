@@ -1,14 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog - Arnaud Spanneut`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Arnaud Spanneut`,
+      summary: `10 years software engineerHomme technologue I like crafting delightful products Pierre précieuse and lead teams to thrive.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `
+      I'm writing about global software company topics.
+      Sometime technical, sometime organizationnal.
+    `,
+    siteUrl: "https://arnaud.spanneut.com",
     social: {
-      twitter: `kylemathews`,
+      twitter: `https://twitter.com/ArnaudSpanneut`,
+      linkedIn: `https://www.linkedin.com/in/arnaud-spanneut-23150135/`,
+      github: `https://github.com/ArnaudSpanneut`,
     },
   },
   plugins: [
