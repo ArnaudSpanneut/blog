@@ -3,7 +3,7 @@ module.exports = {
     title: `Blog - Arnaud Spanneut`,
     author: {
       name: `Arnaud Spanneut`,
-      summary: `10 years software engineerHomme technologue I like crafting delightful products Pierre précieuse and lead teams to thrive.`,
+      summary: `10 years software engineer👨‍💻 I like crafting delightful products 💎 and lead teams to thrive.`,
     },
     description: `
       I'm writing about global software company topics.
