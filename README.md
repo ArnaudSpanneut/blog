@@ -1,6 +1,8 @@
 # Arnaud Spanneut Blog
 
-My thoughts
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5549a4b4-93ac-4e18-9fe0-f562d6e62c24/deploy-status)](https://app.netlify.com/sites/thirsty-mcclintock-1b59e9/deploys)
+
+My thoughts.
 
 ## 🚀 Quick start
 
