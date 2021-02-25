@@ -1,5 +1,6 @@
 ---
 title: Document your technical improvements to make them a success 🎯
+slug: document-your-technical-improvements-to-make-them-a-success
 date: "2020-12-15T23:03:00.121Z"
 ---
 
