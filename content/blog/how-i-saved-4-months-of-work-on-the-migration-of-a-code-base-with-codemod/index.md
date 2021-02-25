@@ -52,7 +52,7 @@ But first, go on [AST Explorer](https://astexplorer.net/) to configure the edito
 4. Run and play with the code in the `transformer()` function _in the bottom left_.
 5. Enjoy the result _in the bottom right_
 
-![astexplorer.net_](https://dev-to-uploads.s3.amazonaws.com/i/64qzaipgcjrxukoeagz1.png)
+![Ast explorer](./ast-explorer.png)
 
 Perfect, **you're now ready!** 🚀.
 
