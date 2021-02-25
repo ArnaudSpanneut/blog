@@ -46,7 +46,11 @@ const Bio = () => {
       )}
       {author?.name && (
         <p>
-          Hello 👋, I'm <strong>{author.name}</strong>, I'm a {author?.summary}
+          Hello{" "}
+          <span role="img" aria-label="hello">
+            👋
+          </span>
+          , I'm <strong>{author.name}</strong>, I'm a {author?.summary}
           {` `}
           <a href={social?.twitter}>You can follow me on Twitter</a>
         </p>

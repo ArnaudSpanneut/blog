@@ -1,3 +1,5 @@
+const SITE_URL = "https://www.arnaudspanneut.com/"
+
 module.exports = {
   siteMetadata: {
     title: `Blog - Arnaud Spanneut`,
@@ -9,7 +11,7 @@ module.exports = {
       I'm writing about global software company topics.
       Sometime technical, sometime organizationnal.
     `,
-    siteUrl: "https://arnaud.spanneut.com",
+    siteUrl: SITE_URL,
     social: {
       twitter: `https://twitter.com/ArnaudSpanneut`,
       linkedIn: `https://www.linkedin.com/in/arnaud-spanneut-23150135/`,
