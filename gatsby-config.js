@@ -5,7 +5,10 @@ module.exports = {
     title: `Blog - Arnaud Spanneut`,
     author: {
       name: `Arnaud Spanneut`,
-      summary: `10 years software engineer👨‍💻 I like crafting delightful products 💎 and lead teams to thrive.`,
+      summary: `
+        10 years software engineer 👨‍💻
+        I like crafting delightful products 💎 and lead teams to thrive.
+      `,
     },
     description: `
       I'm writing about global software company topics.
@@ -55,14 +58,9 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
+    `gatsby-transformer-sharp`,
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
