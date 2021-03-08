@@ -70,6 +70,10 @@ const SEO = ({ description, lang, meta, title }) => {
           name: `twitter:description`,
           content: metaDescription,
         },
+        {
+          name: `google-site-verification`,
+          content: "hJ2wUmbwe8W4uYJFi1Mlxcc-AzSJRn4wL1dQ7yVX3s4",
+        },
       ].concat(meta)}
     />
   )
