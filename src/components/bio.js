@@ -18,6 +18,8 @@ const Bio = () => {
           }
           social {
             twitter
+            linkedIn
+            github
           }
         }
       }

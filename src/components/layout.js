@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const Layout = ({ location, title, social, children }) => {
+export const Layout = ({ location, title, social, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header
@@ -32,5 +32,3 @@ const Layout = ({ location, title, social, children }) => {
     </div>
   )
 }
-
-export default Layout
