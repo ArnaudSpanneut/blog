@@ -10,7 +10,7 @@ For some time, an Instagram account called "[Balance ta startup](https://www.ins
 
 The purpose of it is **to free the speech around the drifts at work** by sharing testimonies of people who have encountered difficult working conditions in start-ups.
 
-Recently a question posed in a post queried me. The question is:
+Recently a question posed in a post queried me:
 
 **« In your opinion, can passion justify more "intense" working conditions? »**
 
@@ -18,7 +18,7 @@ Recently a question posed in a post queried me. The question is:
 
 Being someone passionate about my work and able to work intensely, I felt concerned about the point. I had some ups and downs during my career, and also went through some burnouts.
 
-It led me to write about **the reasons that bring me satisfaction at work and make me happy doing a professional passion.**
+It led me to write about **what is bringing me satisfaction by doing a professional passion.**
 
 ## Being in phase with the company
 
@@ -30,8 +30,6 @@ To get this, it is important to **understand WHY the company you're working with
 
 Finding personal meaning in the work that we do allows us to work harder without feeling cheated. I have always found greater satisfaction in carrying out a project whose ins and outs make sense to me.
 
-I have always found greater satisfaction in carrying out a project whose ins and outs make sense to me.
-
 This can be embodied by:
 
 - Doing a job that touches on a passion you have in life.
@@ -42,7 +40,7 @@ For example:
 - Working in a company that produces a meditation app because you love meditating.
 - Working in an organization that takes care of the climate when you care about the environment.
 
-Tip: To find an area that you care about, you can think about what do you want to be when you grow up?
+**💡 Tip**: To find an area that you care about, you can think about [what do you want to be when you grow up?](https://www.nytimes.com/2021/02/06/style/work-life-balance-tips-pandemic.html)
 
 ## Learning and growing
 
@@ -58,13 +56,13 @@ Finally, having a competent coach can also help you to work on yourself by defin
 
 Investing in your knowledge and experience will help you to demonstrate what you're capable of.
 
-**Tip:** Write down and record every day the impacts you have to follow your progression and success.
+**💡 Tip**: Write down and record every day the impacts you have to follow your progression and success.
 
 ## Having a fair compensation
 
 It is legitimate to be fairly compensated for a work you participate in intensively. However, I found it acceptable to have a salary lower than the desired one when it can be compensated by other means (training, opportunity...).
 
-I've always been satisfied by receiving a pay raise, but I always ended up getting used to the new salary, and my satisfaction with it diminished
+I've always been satisfied by receiving a pay raise, but I always ended up getting used to the new salary, and my satisfaction with it diminished.
 
 **I see retribution as a nice consequence of passion**. And it should be. Because passion is a driver to make things going [better, faster, stronger](https://www.youtube.com/watch?v=gAjR4_CbPpQ).
 
@@ -74,7 +72,7 @@ Above all, I think that **recognition of dedication is atheist best and a long-t
 
 Having said, being underpaid is certainly a way of not being satisfied with the return on the effort.
 
-Tip: You can have an idea of what is the average salary for a position you’re looking for by looking at [payscale](https://www.payscale.com/) or [glassdoor](https://www.glassdoor.fr/Salaires/index.htm).
+**💡 Tip**: You can have an idea of what is the average salary for a position you’re looking for by looking at [payscale](https://www.payscale.com/) or [glassdoor](https://www.glassdoor.fr/Salaires/index.htm).
 
 ## Conclusion
 
